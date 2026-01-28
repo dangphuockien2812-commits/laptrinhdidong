@@ -23,7 +23,7 @@ import androidx.compose.ui.unit.sp
 import com.example.happytome.ui.theme.HappyToMeTheme
 
 
-class MainActivity : ComponentActivity() {
+class HappyBth : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
