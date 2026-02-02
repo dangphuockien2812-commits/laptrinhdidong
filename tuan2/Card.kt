@@ -36,7 +36,7 @@ import androidx.compose.ui.unit.sp
 import com.example.card.ui.theme.CardTheme
 
 
-class MainActivity : ComponentActivity() {
+class Card : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
